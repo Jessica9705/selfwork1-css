@@ -1,0 +1,28 @@
+h1, h2 {
+    font-family: 'Saira', sans-serif;
+    color: #333432;
+}
+
+p{
+    font-family: 'Releway', sans-serif;
+}
+
+nav {
+    background-color: gray;
+}
+
+body {
+    background-image: url(https://wallpapers.com/images/hd/yellow-aesthetic-desktop-o2n9ugnawbgqtnqu.jpg)
+    
+};
+
+.button{
+    background-color: white;
+    color: black;
+
+}
+
+.button:hover{
+    background-color: yellow;
+    color: black;
+}
